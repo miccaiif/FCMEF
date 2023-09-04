@@ -2,7 +2,7 @@
 This is a PyTorch/GPU implementation of our Information Fusion 2022 paper: [Rethinking multi-exposure image fusion with extreme and diverse exposure levels: A robust framework based on Fourier transform and contrastive learning](https://www.sciencedirect.com/science/article/abs/pii/S1566253522002494).
 
 <p align="center">
-  <img src="https://github.com/miccaiif/FCMEF/blob/main/figure2.pdf" width="720">
+  <img src="https://github.com/miccaiif/FCMEF/blob/main/figure2.png" width="720">
 </p>
 
 ### For training
@@ -12,19 +12,19 @@ This is a PyTorch/GPU implementation of our Information Fusion 2022 paper: [Reth
 * Please refer to the [testing code](https://github.com/miccaiif/FCMEF/blob/main/CLMEF_fusion2.py) for image fusion.
 
 <p align="center">
-  <img src="https://github.com/miccaiif/FCMEF/blob/main/figure1.pdf" width="720">
+  <img src="https://github.com/miccaiif/FCMEF/blob/main/figure1.png" width="720">
 </p>
 
 <p align="center">
-  <img src="https://github.com/miccaiif/FCMEF/blob/main/figure7.pdf" width="720">
+  <img src="https://github.com/miccaiif/FCMEF/blob/main/figure7.png" width="720">
 </p>
 
 <p align="center">
-  <img src="https://github.com/miccaiif/FCMEF/blob/main/figure8.pdf" width="720">
+  <img src="https://github.com/miccaiif/FCMEF/blob/main/figure8.png" width="720">
 </p>
 
 <p align="center">
-  <img src="https://github.com/miccaiif/FCMEF/blob/main/figure9.pdf" width="720">
+  <img src="https://github.com/miccaiif/FCMEF/blob/main/figure9.png" width="720">
 </p>
 
 ### For eMEFB and rMEFB Dataset
@@ -32,11 +32,11 @@ We construct two new MEF benchmark test sets, eMEFB and rMEFB, which can be used
 The eMEFB dataset and the rMEFB dataset can be downloaded from this [link](https://drive.google.com/file/d/1t5UVFwyjzfIDLlrdYrKOdZh3tyqE_aFI/view?usp=sharing).
 
 <p align="center">
-  <img src="https://github.com/miccaiif/FCMEF/blob/main/figure2.pdf" width="720">
+  <img src="https://github.com/miccaiif/FCMEF/blob/main/figure2.png" width="720">
 </p>
 
 <p align="center">
-  <img src="https://github.com/miccaiif/FCMEF/blob/main/figure6.pdf" width="720">
+  <img src="https://github.com/miccaiif/FCMEF/blob/main/figure6.png" width="720">
 </p>
 
 ### More details
